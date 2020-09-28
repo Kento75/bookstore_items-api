@@ -1,8 +1,8 @@
 package services
 
 import (
+	"github.com/Kento75/bookstore_items-api/domain/items"
 	"github.com/Kento75/bookstore_utils-go/rest_errors"
-	"github.com/Kento75/bootstore_items-api/domain/items"
 	"net/http"
 )
 
